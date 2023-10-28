@@ -1,0 +1,27 @@
+@media screen and (min-width: 320px) and (max-width: 600px) { 
+    .foot{
+      font-size: 1rem;  
+    }
+}
+.icon svg{
+    font-size: 40px;
+    margin-right: 10px;
+    cursor: pointer; 
+}
+.icon svg:hover{
+    color: goldenrod;
+    transform: translateX(5px);
+    transition: all 400ms;
+}
+
+
+
+
+
+
+
+
+
+
+
+

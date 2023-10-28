@@ -1,0 +1,30 @@
+.navigation-menu{
+    /* background-color: aqua; */
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navigation-menu li{
+    margin: 0 20px;
+}
+.navigation-menu li a:hover{
+    color: goldenrod;
+}
+.navigation-menu li a{
+    text-decoration: none;
+    color: white;   
+}
+
+/* mobile nav */
+.mobile-navigation{
+    list-style-type: none;    
+}
+.mobile-navigation li{
+    margin-top: 20px;
+}
+.mobile-navigation li a{
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: #000;
+}

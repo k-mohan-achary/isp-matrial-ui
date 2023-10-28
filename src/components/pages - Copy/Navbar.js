@@ -10,7 +10,7 @@ const Navbar = () => {
     <>
      <div>
         <div>
-          <AppBar position='static'>  
+          <AppBar position='static'> 
             <Toolbar>
               <Typography variant='h6' flexGrow={1}>
                 Blissful Type 
