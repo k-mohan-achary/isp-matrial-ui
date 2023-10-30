@@ -4,6 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto;
 }
 .navigation-menu li{
     margin: 0 20px;
@@ -27,4 +28,9 @@
     text-decoration: none;
     font-size: 1.4rem;
     color: #000;
+}
+
+.active{
+    color: goldenrod !important;
+    font-weight: bold !important;
 }
